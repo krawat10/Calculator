@@ -1,0 +1,8 @@
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\bin\Debug\CalculatorC.exe.config
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\bin\Debug\CalculatorC.exe
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\bin\Debug\CalculatorC.pdb
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\obj\Debug\CalculatorC.Form1.resources
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\obj\Debug\CalculatorC.Properties.Resources.resources
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\obj\Debug\CalculatorC.csproj.GenerateResource.Cache
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\obj\Debug\CalculatorC.exe
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Basic\CalculatorC\CalculatorC\obj\Debug\CalculatorC.pdb
